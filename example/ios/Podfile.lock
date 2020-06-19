@@ -1,0 +1,22 @@
+PODS:
+  - demo_plugin (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - demo_plugin (from `.symlinks/plugins/demo_plugin/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  demo_plugin:
+    :path: ".symlinks/plugins/demo_plugin/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  demo_plugin: d082033283c60f7ce449d7387ebc6cc3b9de0aad
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: f32fb4e7c14f8b3ca19a369d7be425dd9241af27
+
+COCOAPODS: 1.8.4
